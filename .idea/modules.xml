@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GitHub-KotlinSQLite.iml" filepath="$PROJECT_DIR$/GitHub-KotlinSQLite.iml" />
       <module fileurl="file://$PROJECT_DIR$/KotlinSQLite.iml" filepath="$PROJECT_DIR$/KotlinSQLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/KotlinSQLite-app.iml" filepath="$PROJECT_DIR$/app/KotlinSQLite-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
